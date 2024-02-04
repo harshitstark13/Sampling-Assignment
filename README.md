@@ -3,20 +3,20 @@
 
 **Various sampling techniques on a credit card fraud dataset:**
 
-**Random Over-sampling:**
+* **Random Over-sampling:**
 Involves duplicating instances of the minority class to balance the class distribution.
 
-**Simple Random Sampling:**
+* **Simple Random Sampling:**
 Randomly selects a subset of data points from the entire dataset without any specific order or pattern.
 
-**Systematic Sampling:**
+* **Systematic Sampling:**
 Selects every nth element from the dataset after randomly choosing a starting point, creating a systematic sample.
 
-**Cluster Sampling:**
+* **Cluster Sampling:**
 Divides the dataset into clusters, randomly selects clusters, and includes all elements within those clusters in the sample.
 
-**Stratified Sampling:**
+* **Stratified Sampling:**
 Divides the dataset into strata based on certain characteristics, then randomly samples from each stratum proportionally.
 
-**Bootstrap Sampling:**
+* **Bootstrap Sampling:**
 Involves repeatedly sampling with replacement from the dataset to create multiple bootstrap samples, used for estimating statistical properties and uncertainties.
