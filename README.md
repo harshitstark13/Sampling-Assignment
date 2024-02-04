@@ -1,4 +1,4 @@
-# Sampling-Assignment
+# Sampling
  Sampling is a statistical technique used to select a subset of data points from a larger dataset, aiming to represent the overall characteristics of the entire population.
 
 **Various sampling techniques on a credit card fraud dataset:**
